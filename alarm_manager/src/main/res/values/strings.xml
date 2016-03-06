@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Alarm Manager Example</string>
+    <string name="button_text">Start!</string>
+</resources>
